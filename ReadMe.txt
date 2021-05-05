@@ -1,3 +1,5 @@
+All credit goes to Jackson Hagood...I just wanted to give it a url. Go to https://randomkeyss.github.io/CodeNinjasGDPFunctions
+
 Code Ninjas | The Woodlands | Jackson Hagood
 
 Encyclopedia for all of the pre-written

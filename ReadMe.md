@@ -3,7 +3,7 @@ This is a simple and intuitive documentation that the ninjas can use if they're 
 
 Forked from [@randomKeyss](https://github.com/randomKeyss) which was forked from [@JacksonHagood](https://github.com/JacksonHagood).
 
-    All credit goes to Jackson Hagood...I just wanted to give it a url. Go to https://randomkeyss.github.io/CodeNinjasGDPFunctions
+    "All credit goes to Jackson Hagood...I just wanted to give it a url"
     ~Randomkeyss
 
 ## Code Ninjas | The Woodlands | Jackson Hagood
